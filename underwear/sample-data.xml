@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.2" created="2016-06-12 13:15" -->
+<!-- generator="WordPress/4.5.3" created="2016-07-03 22:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Underwear</title>
 	<link>https://plutonwp.com/underwear</link>
 	<description>Pluton WordPress Theme Underwear Demo</description>
-	<pubDate>Sun, 12 Jun 2016 13:15:39 +0000</pubDate>
+	<pubDate>Sun, 03 Jul 2016 22:43:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://plutonwp.com/</wp:base_site_url>
@@ -55,7 +55,15 @@
 	<wp:term><wp:term_id>6</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[principal-menu]]></wp:term_slug><wp:term_name><![CDATA[Principal Menu]]></wp:term_name></wp:term>
 	<wp:term><wp:term_id>7</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name></wp:term>
 
-	<generator>https://wordpress.org/?v=4.5.2</generator>
+	<generator>https://wordpress.org/?v=4.5.3</generator>
+
+<image>
+	<url>https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/cropped-underwear-site-icon-32x32.png</url>
+	<title>Underwear</title>
+	<link>https://plutonwp.com/underwear</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 	<item>
 		<title>underwear-logo</title>
@@ -117,161 +125,6 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:224;s:6:"height";i:36;s:4:"file";s:33:"2016/04/underwear-logo-retina.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:32:"underwear-logo-retina-150x36.png";s:5:"width";i:150;s:6:"height";i:36;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon</title>
-		<link>https://plutonwp.com/underwear/favicon/</link>
-		<pubDate>Sun, 24 Apr 2016 16:18:20 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 16:18:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 16:18:20]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/favicon.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:32;s:6:"height";i:32;s:4:"file";s:19:"2016/04/favicon.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon-ipad</title>
-		<link>https://plutonwp.com/underwear/favicon-ipad/</link>
-		<pubDate>Sun, 24 Apr 2016 16:18:22 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-ipad.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 16:18:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 16:18:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon-ipad]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-ipad.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/favicon-ipad.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:76;s:6:"height";i:76;s:4:"file";s:24:"2016/04/favicon-ipad.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon-ipad-retina</title>
-		<link>https://plutonwp.com/underwear/favicon-ipad-retina/</link>
-		<pubDate>Sun, 24 Apr 2016 16:18:23 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-ipad-retina.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>54</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 16:18:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 16:18:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon-ipad-retina]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-ipad-retina.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/favicon-ipad-retina.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:152;s:6:"height";i:152;s:4:"file";s:31:"2016/04/favicon-ipad-retina.png";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"favicon-ipad-retina-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon-iphone</title>
-		<link>https://plutonwp.com/underwear/favicon-iphone/</link>
-		<pubDate>Sun, 24 Apr 2016 16:18:23 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-iphone.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 16:18:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 16:18:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon-iphone]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-iphone.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/favicon-iphone.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:57;s:6:"height";i:57;s:4:"file";s:26:"2016/04/favicon-iphone.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>favicon-iphone-retina</title>
-		<link>https://plutonwp.com/underwear/favicon-iphone-retina/</link>
-		<pubDate>Sun, 24 Apr 2016 16:18:24 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-iphone-retina.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 16:18:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 16:18:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon-iphone-retina]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/favicon-iphone-retina.png]]></wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2016/04/favicon-iphone-retina.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:120;s:6:"height";i:120;s:4:"file";s:33:"2016/04/favicon-iphone-retina.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1298,97 +1151,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Demos</title>
-		<link>https://plutonwp.com/underwear/lingerie/</link>
-		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[lingerie]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[nolink]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[megamenu]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[megamenu_auto_width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>underwear-product8b</title>
 		<link>https://plutonwp.com/underwear/product/shona-night/underwear-product8b/</link>
 		<pubDate>Mon, 25 Apr 2016 18:08:49 +0000</pubDate>
@@ -1541,6 +1303,370 @@
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:572;s:6:"height";i:764;s:4:"file";s:31:"2016/04/underwear-product10.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"underwear-product10-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"underwear-product10-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Demos</title>
+		<link>https://plutonwp.com/underwear/lingerie/</link>
+		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lingerie]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[nolink]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[megamenu]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[megamenu_auto_width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Catalog</title>
+		<link>https://plutonwp.com/underwear/swim/</link>
+		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=42</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[swim]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Sale &amp; Specials</title>
+		<link>https://plutonwp.com/underwear/sale-specials/</link>
+		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=44</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sale-specials]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>https://plutonwp.com/underwear/46/</link>
+		<pubDate>Sun, 24 Apr 2016 14:48:09 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 14:48:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 14:48:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[46]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2041,6 +2167,72 @@
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>underwear-site-icon</title>
+		<link>https://plutonwp.com/underwear/underwear-site-icon/</link>
+		<pubDate>Sun, 03 Jul 2016 22:24:24 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/underwear-site-icon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>233</wp:post_id>
+		<wp:post_date><![CDATA[2016-07-03 22:24:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-07-03 22:24:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[underwear-site-icon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/underwear-site-icon.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/underwear-site-icon.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:31:"2016/07/underwear-site-icon.png";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"underwear-site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"underwear-site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-underwear-site-icon.png</title>
+		<link>https://plutonwp.com/underwear/cropped-underwear-site-icon-png/</link>
+		<pubDate>Sun, 03 Jul 2016 22:24:35 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/cropped-underwear-site-icon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/cropped-underwear-site-icon.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>234</wp:post_id>
+		<wp:post_date><![CDATA[2016-07-03 22:24:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-07-03 22:24:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-underwear-site-icon-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url><![CDATA[https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/07/cropped-underwear-site-icon.png]]></wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2016/07/cropped-underwear-site-icon.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+			<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:39:"2016/07/cropped-underwear-site-icon.png";s:5:"sizes";a:6:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"cropped-underwear-site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:39:"cropped-underwear-site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-270";a:4:{s:4:"file";s:39:"cropped-underwear-site-icon-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:39:"cropped-underwear-site-icon-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:39:"cropped-underwear-site-icon-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:37:"cropped-underwear-site-icon-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Store</title>
 		<link>https://plutonwp.com/underwear/store/</link>
 		<pubDate>Sat, 23 Apr 2016 17:08:49 +0000</pubDate>
@@ -2195,276 +2387,197 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Catalog</title>
-		<link>https://plutonwp.com/underwear/swim/</link>
-		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
+		<title>My Account</title>
+		<link>https://plutonwp.com/underwear/my-account/</link>
+		<pubDate>Sat, 23 Apr 2016 17:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=42</guid>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/my-account/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_my_account]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-23 17:08:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-23 17:08:49]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[swim]]></wp:post_name>
+		<wp:post_name><![CDATA[my-account]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[42]]></wp:meta_value>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Sale &amp; Specials</title>
-		<link>https://plutonwp.com/underwear/sale-specials/</link>
-		<pubDate>Sun, 24 Apr 2016 14:32:13 +0000</pubDate>
+		<title>Footer</title>
+		<link>https://plutonwp.com/underwear/footer/</link>
+		<pubDate>Sun, 24 Apr 2016 09:30:07 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=44</guid>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row el_class="footer-area"][vc_column width="1/2"][vc_column_text]
+<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Store Fashion Co. Ltd</h4>
+[/vc_column_text][pav_social_links style="none" twitter="#" facebook="#" googleplus="#" instagram="#" youtube="#"][vc_column_text]
+<p style="margin: 0;"><strong style="color: #ffffff;">[Address]</strong>: 165 Street Name, New York,  Old City 33541 America</p>
+<p style="margin: 0 0 20px;"><strong style="color: #ffffff;">[Hotline]</strong>: 254-6587-8741  - <strong style="color: #ffffff;">[Fax]</strong>: 254-5847-6587 - <strong style="color: #ffffff;">[Email]</strong>: contact@store.com</p>
+[/vc_column_text][pav_newsletter_form mailchimp_form_action="#" submit_text="Subscribe" input_height="40px" input_font_size="13px" submit_height="36px" submit_padding="0 24px" input_bg="#383838" input_color="#909090" input_padding="6px 12px" input_border="2px solid #383838" input_border_radius="20px" submit_bg="#212121" submit_position_right="2px" submit_border_radius="20px" submit_hover_bg="#ff4a96"][/vc_column][vc_column width="1/4" el_class="footer-column"][vc_column_text]
+<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Policy &amp; Provision</h4>
+<ul style="font-size: 13px; line-height: 25px;">
+ 	<li><a href="#">Payment Method</a></li>
+ 	<li><a href="#">Delivery</a></li>
+ 	<li><a href="#">Warranty Policy</a></li>
+ 	<li><a href="#">Returns and Refunds</a></li>
+ 	<li><a href="#">Information Security</a></li>
+</ul>
+[/vc_column_text][/vc_column][vc_column width="1/4" el_class="footer-column"][vc_column_text]
+<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Customer Services</h4>
+<ul style="font-size: 13px; line-height: 25px;">
+ 	<li><a href="#">My Account</a></li>
+ 	<li><a href="#">FAQ</a></li>
+ 	<li><a href="#">Store System</a></li>
+ 	<li><a href="#">Tracking</a></li>
+ 	<li><a href="#">Contact Us</a></li>
+</ul>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1461496493168{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 20px !important;border-top-color: #373737 !important;border-top-style: solid !important;}" el_class="footer-bottom-area"][vc_column][vc_column_text]
+<ul class="footer-bottom-menu">
+ 	<li><a href="#">Privacy &amp; Cookies</a></li>
+ 	<li><a href="#">Terms &amp; Conditions</a></li>
+ 	<li><a href="#">Accessibility</a></li>
+ 	<li><a href="#">Store Directory</a></li>
+ 	<li><a href="#">About Us</a></li>
+</ul>
+<p style="color: #777; font-size: 12px; text-align: center;">Copyright 2016 - Pluton theme - All Rights Reserved</p>
+[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 14:32:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 14:32:13]]></wp:post_date_gmt>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 09:30:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 09:30:07]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sale-specials]]></wp:post_name>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="principal-menu"><![CDATA[Principal Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[44]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1461496493168{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 20px !important;border-top-color: #373737 !important;border-top-style: solid !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title></title>
-		<link>https://plutonwp.com/underwear/46/</link>
-		<pubDate>Sun, 24 Apr 2016 14:48:09 +0000</pubDate>
+		<title>Footer Callout</title>
+		<link>https://plutonwp.com/underwear/footer-callout/</link>
+		<pubDate>Sun, 24 Apr 2016 13:11:51 +0000</pubDate>
 		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?p=46</guid>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=30</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row][vc_column width="1/4"][pav_icon_box style="four" heading="Worldwide shipping" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-globe" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box first"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Fast delivery" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-anchor" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Secure payment" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-lock" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Fashion destination" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-heart" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][/vc_row]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 14:48:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 14:48:09]]></wp:post_date_gmt>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-24 13:11:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-24 13:11:51]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[46]]></wp:post_name>
+		<wp:post_name><![CDATA[footer-callout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="top-menu"><![CDATA[Top Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
+			<wp:meta_value><![CDATA[off]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_nolink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_category_post]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_auto_width]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_col]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_heading]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_icon]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_menu_item_megamenu_widgetarea]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3803,200 +3916,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>My Account</title>
-		<link>https://plutonwp.com/underwear/my-account/</link>
-		<pubDate>Sat, 23 Apr 2016 17:08:49 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[woocommerce_my_account]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-23 17:08:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-23 17:08:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Footer</title>
-		<link>https://plutonwp.com/underwear/footer/</link>
-		<pubDate>Sun, 24 Apr 2016 09:30:07 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row el_class="footer-area"][vc_column width="1/2"][vc_column_text]
-<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Store Fashion Co. Ltd</h4>
-[/vc_column_text][pav_social_links style="none" twitter="#" facebook="#" googleplus="#" instagram="#" youtube="#"][vc_column_text]
-<p style="margin: 0;"><strong style="color: #ffffff;">[Address]</strong>: 165 Street Name, New York,  Old City 33541 America</p>
-<p style="margin: 0 0 20px;"><strong style="color: #ffffff;">[Hotline]</strong>: 254-6587-8741  - <strong style="color: #ffffff;">[Fax]</strong>: 254-5847-6587 - <strong style="color: #ffffff;">[Email]</strong>: contact@store.com</p>
-[/vc_column_text][pav_newsletter_form mailchimp_form_action="#" submit_text="Subscribe" input_height="40px" input_font_size="13px" submit_height="36px" submit_padding="0 24px" input_bg="#383838" input_color="#909090" input_padding="6px 12px" input_border="2px solid #383838" input_border_radius="20px" submit_bg="#212121" submit_position_right="2px" submit_border_radius="20px" submit_hover_bg="#ff4a96"][/vc_column][vc_column width="1/4" el_class="footer-column"][vc_column_text]
-<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Policy &amp; Provision</h4>
-<ul style="font-size: 13px; line-height: 25px;">
- 	<li><a href="#">Payment Method</a></li>
- 	<li><a href="#">Delivery</a></li>
- 	<li><a href="#">Warranty Policy</a></li>
- 	<li><a href="#">Returns and Refunds</a></li>
- 	<li><a href="#">Information Security</a></li>
-</ul>
-[/vc_column_text][/vc_column][vc_column width="1/4" el_class="footer-column"][vc_column_text]
-<h4 style="color: #fff; font-size: 18px; font-family: 'Montserrat'; font-weight: 400; margin: 0 0 4px;">Customer Services</h4>
-<ul style="font-size: 13px; line-height: 25px;">
- 	<li><a href="#">My Account</a></li>
- 	<li><a href="#">FAQ</a></li>
- 	<li><a href="#">Store System</a></li>
- 	<li><a href="#">Tracking</a></li>
- 	<li><a href="#">Contact Us</a></li>
-</ul>
-[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1461496493168{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 20px !important;border-top-color: #373737 !important;border-top-style: solid !important;}" el_class="footer-bottom-area"][vc_column][vc_column_text]
-<ul class="footer-bottom-menu">
- 	<li><a href="#">Privacy &amp; Cookies</a></li>
- 	<li><a href="#">Terms &amp; Conditions</a></li>
- 	<li><a href="#">Accessibility</a></li>
- 	<li><a href="#">Store Directory</a></li>
- 	<li><a href="#">About Us</a></li>
-</ul>
-<p style="color: #777; font-size: 12px; text-align: center;">Copyright 2016 - Pluton theme - All Rights Reserved</p>
-[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 09:30:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 09:30:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1461496493168{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 20px !important;border-top-color: #373737 !important;border-top-style: solid !important;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Footer Callout</title>
-		<link>https://plutonwp.com/underwear/footer-callout/</link>
-		<pubDate>Sun, 24 Apr 2016 13:11:51 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=30</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column width="1/4"][pav_icon_box style="four" heading="Worldwide shipping" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-globe" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box first"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Fast delivery" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-anchor" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Secure payment" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-lock" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][vc_column width="1/4"][pav_icon_box style="four" heading="Fashion destination" heading_type="div" heading_weight="400" icon_type="lineicons" icon_lineicons="line-icon-heart" url_wrap="false" heading_size="16px" icon_color="#ffffff" icon_size="22px" url="#" classes="aligncenter feature-box"][/pav_icon_box][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-24 13:11:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-24 13:11:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer-callout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_easy_image_gallery_link_images]]></wp:meta_key>
-			<wp:meta_value><![CDATA[off]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -5690,387 +5609,6 @@ Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam maur
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Catalog</title>
-		<link>https://plutonwp.com/underwear/catalog/</link>
-		<pubDate>Wed, 27 Apr 2016 20:01:41 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=157</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][product_categories orderby="" order="" columns="4" ids=""][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:01:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:01:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[catalog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact Us</title>
-		<link>https://plutonwp.com/underwear/contact-us/</link>
-		<pubDate>Wed, 27 Apr 2016 20:20:40 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=161</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1461788437242{padding-top: 130px !important;padding-bottom: 100px !important;}"][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Drop Us A Line" icon_type="simplelineicons" icon_simplelineicons="icon-pencil" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
-ante dapibus diam nisi.
-<p style="color: #ff4a96;">contact@store-shop.com</p>
-[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Commercial" icon_type="simplelineicons" icon_simplelineicons="icon-people" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
-ante dapibus diam nisi.
-<p style="color: #ff4a96;">commercial@store-shop.com</p>
-[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Visit Our Office" icon_type="simplelineicons" icon_simplelineicons="icon-map" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
-ante dapibus diam nisi.
-<p style="color: #ff4a96;">(+55) 587 475 348</p>
-[/pav_icon_box][/vc_column][/vc_row][vc_row][vc_column][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDM4NzE0Mi44NDAwODkyMTQ1JTIxMmQtNzQuMjU4MTg5MDU4NDUwNDElMjEzZDQwLjcwNTgzMTY0MDE5NzAzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODljMjRmYTVkMzNmMDgzYiUyNTNBMHhjODBiOGYwNmUxNzdmZTYyJTIxMnNOZXclMkJZb3JrJTI1MkMlMkIlMjVDMyUyNTg5dGF0JTJCZGUlMkJOZXclMkJZb3JrJTI1MkMlMkIlMjVDMyUyNTg5dGF0cy1VbmlzJTIxNWUwJTIxM20yJTIxMXNmciUyMTJzZnIlMjE0djE0NTgzMjg0NTM4NjclMjIlMjB3aWR0aCUzRCUyMjYwMCUyMiUyMGhlaWdodCUzRCUyMjQwMCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBMCUzQnBvaW50ZXItZXZlbnRzJTNBJTIwbm9uZSUzQiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQyUyRmlmcmFtZSUzRQ==" size="400px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1461789241056{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column][pav_heading text="Leave a message" tag="h1" text_transform="uppercase" font_size="24px" css=".vc_custom_1461789566159{margin-bottom: 25px !important;}"][contact-form-7 id="4"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>161</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:20:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:20:40]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1461788437242{padding-top: 130px !important;padding-bottom: 100px !important;}.vc_custom_1461789241056{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1461789566159{margin-bottom: 25px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_disable_margins]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home</title>
-		<link>https://plutonwp.com/underwear/</link>
-		<pubDate>Wed, 27 Apr 2016 20:42:57 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=170</guid>
-		<description></description>
-		<content:encoded><![CDATA[[vc_row visibility="visible-desktop"][vc_column][rev_slider_vc alias="underwear-home"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668538168{padding-top: 80px !important;padding-bottom: 50px !important;}" el_class="banner-row"][vc_column width="1/2" css_animation="fadeInLeft"][vc_column_text css=".vc_custom_1461872312039{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_153525680.jpg?id=200) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="box-banner-wrap pav-equal-height"]
-<div class="box-banner first">
-<p class="top-text">Special Promotion</p>
-
-<h2 class="title">New Year</h2>
-<p class="clr"><a class="pav-button pav-btn align-right small" href="#">See it now</a></p>
-
-</div>
-[/vc_column_text][pav_spacing][/vc_column][vc_column width="1/2" css_animation="fadeInRight"][vc_column_text css=".vc_custom_1461872519060{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_223364521.jpg?id=201) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="box-banner-wrap pav-equal-height"]
-<div class="box-banner last">
-<p class="top-text">Special Promotion</p>
-
-<h2 class="title">New Year</h2>
-<p class="clr"><a class="pav-button pav-btn btn-banner align-left small" href="#">See it now</a></p>
-
-</div>
-[/vc_column_text][pav_spacing][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668552753{padding-bottom: 50px !important;}" el_class="info-row"][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="Free Shipping Worlwide" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-globe" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851309386{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Guaranteed Delivery In 4 Days</span>[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="Money Back guarantee" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-hourglass" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851365288{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Send Within 30 Days</span>[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="24/7 Customer Service" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-chat" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851337711{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Call Us 24/7 At 023-5874-6874</span>[/pav_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668567789{padding-bottom: 50px !important;}" el_class="arrival-row"][vc_column][pav_heading text="New Arrival" tag="h1" font_weight="400" text_transform="uppercase" text_align="center" font_size="30px;" letter_spacing="1px" color="#212121" line_height="36px" font_family="Montserrat"][pav_divider color="#bbbbbb" icon_type="lineicons" icon_lineicons="line-icon-basket" width="180px" height="1px" d_margin_bottom="30px" icon_color="#212121" icon_size="18px"][recent_products per_page="8" columns="4" orderby="" order=""][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463667982841{padding-top: 135px !important;padding-bottom: 135px !important;background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_207455965.png?id=211) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="summer-row"][vc_column width="1/2"][pav_heading css_animation="fadeIn" text="New Women Underwear" tag="h2" text_transform="uppercase" font_size="14px" letter_spacing="0.8px" color="#ffffff" font_family="Montserrat"][pav_divider css_animation="fadeIn" align="left" color="#e2e2e2" width="150px" height="3px" d_margin_top="20px" d_margin_bottom="10px" delay_animation="300"][pav_heading css_animation="fadeIn" text="Summer Collection" tag="h2" text_transform="uppercase" font_size="46px" letter_spacing="0.8px" color="#ff699c" font_family="Montserrat" delay_animation="600" el_class="big-title"][pav_heading css_animation="fadeIn" text="#E-8_JTNDcCUyMHN0eWxlJTNEJTIybWFyZ2luJTNBJTIwMCUyMDAlMjAxMHB4JTNCJTIyJTNFTnVsbGElMjBxdWlzJTIwc2VtJTIwYXQlMjBuaWJoJTIwZWxlbWVudHVtJTIwaW1wZXJkaWV0LiUyMER1aXMlMjBzYWdpdHRpcyUyMGlwc3VtJTIwcHJhZXNlbnQlM0NiciUzRSUwQW1hdXJpcyUyMGZ1c2NlJTIwbmVjJTIwdGVsbHVzJTIwc2VkJTIwYXVndWUlMjBzZW1wZXIlMjBwb3J0YSUyMGFudGUlMjBkYXBpYnVzLiUzQyUyRnAlM0U=" delay_animation="900" font_size="15px" color="#ffffff"][pav_button css_animation="fadeIn" url="#" style="outline" size="small" custom_hover_background="#ff699c" custom_color="#ffffff" custom_border_color="#ff699c" border_radius="30px" font_family="Montserrat" font_padding="11px 36px" margin="10px 0 0" delay_animation="1200"]See it now[/pav_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668628144{padding-top: 80px !important;padding-bottom: 80px !important;}" el_class="blog-row"][vc_column][pav_heading text="Latest From Blog" tag="h1" font_weight="400" text_transform="uppercase" text_align="center" font_size="30px;" letter_spacing="1px" color="#212121" line_height="36px" font_family="Montserrat"][pav_divider color="#bbbbbb" icon_type="lineicons" icon_lineicons="line-icon-chat" width="180px" height="1px" d_margin_bottom="30px" icon_color="#212121" icon_size="18px"][pav_blog_carousel css_animation="fadeInUp" count="6" content_heading_weight="600" content_heading_transform="uppercase" author="false" categories="false" excerpt_length="11" readmore="false" img_width="360px" img_height="187px" content_heading_size="15px" content_background="#f6f6f6" content_padding="28px 15px" meta_icons_color="#ff4a96"][/vc_column][/vc_row]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>170</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-27 20:42:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-27 20:42:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-			<wp:meta_value><![CDATA[true]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1463668538168{padding-top: 80px !important;padding-bottom: 50px !important;}.vc_custom_1463668552753{padding-bottom: 50px !important;}.vc_custom_1463668567789{padding-bottom: 50px !important;}.vc_custom_1463667982841{padding-top: 135px !important;padding-bottom: 135px !important;background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_207455965.png?id=211) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463668628144{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1461872312039{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_153525680.jpg?id=200) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1461872519060{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_223364521.jpg?id=201) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1461851309386{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1461851365288{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1461851337711{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
-			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
-			<wp:meta_value><![CDATA[white]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_disable_margins]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[pluton_disable_title]]></wp:meta_key>
-			<wp:meta_value><![CDATA[on]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
-			<wp:meta_value><![CDATA[/* Box banner wrap */
-.box-banner-wrap {min-height: 555px; position: relative;}
-
-/* Box banner */
-.box-banner {position: absolute; bottom: 0; left: 0; width: 100%;}
-.box-banner.first {padding: 0 50px 60px 0; text-align: right;}
-.box-banner.last {top: 0; bottom: auto; padding: 40px 0 0 50px;}
-
-/* Box banner top text/title */
-.box-banner .top-text, .box-banner .title {font-family: 'montserrat'; color: #444; font-weight: bold; line-height: 1; margin: 0 0 6px; letter-spacing: 1px; text-transform: uppercase;}
-
-/* Box banner title */
-.box-banner .title {color: #ff699c; margin: 0 0 10px; font-size: 44px;}
-
-/* Second box banner top text/title */
-.box-banner.last .top-text {color: #fff;}
-.box-banner.last .title {color: #f787af;}
-
-/* Box banner buttons */
-.box-banner .pav-button.pav-btn {font-family: 'montserrat'; background-color: #fff; color: #ff4a96; border: 1px solid #ff4a96; border-radius: 30px; padding: 8px 20px;}
-.box-banner .pav-button.pav-btn:hover, .box-banner.last .pav-button.pav-btn:hover {background-color: #ff4a96; color: #fff;}
-
-/* Second box banner button */
-.box-banner.last .pav-button.pav-btn {background-color: transparent; color: #fff; border-color: #ff4a96;}
-
-/* Responsive */
-@media screen and (max-width: 1080px) {
-    body .summer-row {padding-top: 65px!important; padding-bottom: 65px!important;}
-}
-@media screen and (max-width: 767px) {
-    body .banner-row {padding-top: 50px!important; padding-bottom: 20px!important;}
-    body .info-row {padding-bottom: 20px!important;}
-    body .arrival-row {padding-bottom: 20px!important;}
-    body .blog-row {padding-top: 50px!important; padding-bottom: 50px!important;}
-    #footer-widgets .vc_row {margin-left: 0; margin-right: 0;}
-}
-@media screen and (max-width: 320px) {
-    body .big-title {font-size: 36px !important;}
-}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>https://plutonwp.com/underwear/?post_type=wpcf7_contact_form&#038;p=4</link>
-		<pubDate>Sat, 23 Apr 2016 17:07:01 +0000</pubDate>
-		<dc:creator><![CDATA[Nick]]></dc:creator>
-		<guid isPermaLink="false">https://plutonwp.com/underwear/?post_type=wpcf7_contact_form&#038;p=4</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="left_float">
-<p>[text* your-name placeholder "Your Name"]</p>
-
-<p>[url url-906 placeholder "Your Website"]</p>
-</div>
-
-<div class="right_float">
-<p>[email* your-email placeholder "Email Address"]</p>
-
-<p>[text your-subject placeholder "Subject"]</p>
-</div>
-
-<div class="no_float">
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>
-</div>
-Underwear "[your-subject]"
-[your-name] <wordpress@plutonwp.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)
-support@contact.com
-Reply-To: [your-email]
-
-
-
-
-Underwear "[your-subject]"
-Underwear <wordpress@plutonwp.com>
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)
-[your-email]
-Reply-To: plutontheme@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2016-04-23 17:07:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-04-23 17:07:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<div class="left_float">
-<p>[text* your-name placeholder "Your Name"]</p>
-
-<p>[url url-906 placeholder "Your Website"]</p>
-</div>
-
-<div class="right_float">
-<p>[email* your-email placeholder "Email Address"]</p>
-
-<p>[text your-subject placeholder "Subject"]</p>
-</div>
-
-<div class="no_float">
-<p>[textarea your-message placeholder "Your Message"]</p>
-
-<p style="margin: 0;">[submit "Send Message"]</p>
-</div>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:26:"Underwear "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:177:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)";s:9:"recipient";s:19:"support@contact.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:26:"Underwear "[your-subject]"";s:6:"sender";s:34:"Underwear <wordpress@plutonwp.com>";s:4:"body";s:119:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Shona Night</title>
 		<link>https://plutonwp.com/underwear/product/shona-night/</link>
 		<pubDate>Mon, 25 Apr 2016 13:53:40 +0000</pubDate>
@@ -6600,6 +6138,387 @@ This e-mail was sent from a contact form on Underwear (https://plutonwp.com/unde
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[winsom-hipster-copy-9]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Catalog</title>
+		<link>https://plutonwp.com/underwear/catalog/</link>
+		<pubDate>Wed, 27 Apr 2016 20:01:41 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=157</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row][vc_column][product_categories orderby="" order="" columns="4" ids=""][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:01:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:01:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[catalog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact Us</title>
+		<link>https://plutonwp.com/underwear/contact-us/</link>
+		<pubDate>Wed, 27 Apr 2016 20:20:40 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=161</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row center_row="yes" css=".vc_custom_1461788437242{padding-top: 130px !important;padding-bottom: 100px !important;}"][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Drop Us A Line" icon_type="simplelineicons" icon_simplelineicons="icon-pencil" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
+ante dapibus diam nisi.
+<p style="color: #ff4a96;">contact@store-shop.com</p>
+[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Commercial" icon_type="simplelineicons" icon_simplelineicons="icon-people" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
+ante dapibus diam nisi.
+<p style="color: #ff4a96;">commercial@store-shop.com</p>
+[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box style="three" alignment="center" heading="Visit Our Office" icon_type="simplelineicons" icon_simplelineicons="icon-map" icon_color="#ffffff" icon_background="#212121" icon_size="40px" icon_border_radius="50%" icon_width="105px" icon_height="105px" heading_size="18px"]Integer nec odio praesent libero sed cursus
+ante dapibus diam nisi.
+<p style="color: #ff4a96;">(+55) 587 475 348</p>
+[/pav_icon_box][/vc_column][/vc_row][vc_row][vc_column][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xOCUyMTFtMTIlMjExbTMlMjExZDM4NzE0Mi44NDAwODkyMTQ1JTIxMmQtNzQuMjU4MTg5MDU4NDUwNDElMjEzZDQwLjcwNTgzMTY0MDE5NzAzJTIxMm0zJTIxMWYwJTIxMmYwJTIxM2YwJTIxM20yJTIxMWkxMDI0JTIxMmk3NjglMjE0ZjEzLjElMjEzbTMlMjExbTIlMjExczB4ODljMjRmYTVkMzNmMDgzYiUyNTNBMHhjODBiOGYwNmUxNzdmZTYyJTIxMnNOZXclMkJZb3JrJTI1MkMlMkIlMjVDMyUyNTg5dGF0JTJCZGUlMkJOZXclMkJZb3JrJTI1MkMlMkIlMjVDMyUyNTg5dGF0cy1VbmlzJTIxNWUwJTIxM20yJTIxMXNmciUyMTJzZnIlMjE0djE0NTgzMjg0NTM4NjclMjIlMjB3aWR0aCUzRCUyMjYwMCUyMiUyMGhlaWdodCUzRCUyMjQwMCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBMCUzQnBvaW50ZXItZXZlbnRzJTNBJTIwbm9uZSUzQiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRSUzQyUyRmlmcmFtZSUzRQ==" size="400px"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1461789241056{padding-top: 80px !important;padding-bottom: 80px !important;}"][vc_column][pav_heading text="Leave a message" tag="h1" text_transform="uppercase" font_size="24px" css=".vc_custom_1461789566159{margin-bottom: 25px !important;}"][contact-form-7 id="4"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:20:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:20:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1461788437242{padding-top: 130px !important;padding-bottom: 100px !important;}.vc_custom_1461789241056{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1461789566159{margin-bottom: 25px !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home</title>
+		<link>https://plutonwp.com/underwear/</link>
+		<pubDate>Wed, 27 Apr 2016 20:42:57 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?page_id=170</guid>
+		<description></description>
+		<content:encoded><![CDATA[[vc_row visibility="visible-desktop"][vc_column][rev_slider_vc alias="underwear-home"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668538168{padding-top: 80px !important;padding-bottom: 50px !important;}" el_class="banner-row"][vc_column width="1/2" css_animation="fadeInLeft"][vc_column_text css=".vc_custom_1461872312039{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_153525680.jpg?id=200) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="box-banner-wrap pav-equal-height"]
+<div class="box-banner first">
+<p class="top-text">Special Promotion</p>
+
+<h2 class="title">New Year</h2>
+<p class="clr"><a class="pav-button pav-btn align-right small" href="#">See it now</a></p>
+
+</div>
+[/vc_column_text][pav_spacing][/vc_column][vc_column width="1/2" css_animation="fadeInRight"][vc_column_text css=".vc_custom_1461872519060{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_223364521.jpg?id=201) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="box-banner-wrap pav-equal-height"]
+<div class="box-banner last">
+<p class="top-text">Special Promotion</p>
+
+<h2 class="title">New Year</h2>
+<p class="clr"><a class="pav-button pav-btn btn-banner align-left small" href="#">See it now</a></p>
+
+</div>
+[/vc_column_text][pav_spacing][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668552753{padding-bottom: 50px !important;}" el_class="info-row"][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="Free Shipping Worlwide" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-globe" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851309386{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Guaranteed Delivery In 4 Days</span>[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="Money Back guarantee" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-hourglass" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851365288{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Send Within 30 Days</span>[/pav_icon_box][/vc_column][vc_column width="1/3"][pav_icon_box css_animation="fadeIn" style="three" alignment="center" heading="24/7 Customer Service" heading_transform="uppercase" icon_type="lineicons" icon_lineicons="line-icon-chat" heading_color="#212121" heading_size="18px" heading_letter_spacing="0.8px" icon_color="#ff4a96" icon_size="46px" css=".vc_custom_1461851337711{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}"]<span style="color: #ff4a96;">Call Us 24/7 At 023-5874-6874</span>[/pav_icon_box][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668567789{padding-bottom: 50px !important;}" el_class="arrival-row"][vc_column][pav_heading text="New Arrival" tag="h1" font_weight="400" text_transform="uppercase" text_align="center" font_size="30px;" letter_spacing="1px" color="#212121" line_height="36px" font_family="Montserrat"][pav_divider color="#bbbbbb" icon_type="lineicons" icon_lineicons="line-icon-basket" width="180px" height="1px" d_margin_bottom="30px" icon_color="#212121" icon_size="18px"][recent_products per_page="8" columns="4" orderby="" order=""][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463667982841{padding-top: 135px !important;padding-bottom: 135px !important;background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_207455965.png?id=211) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="summer-row"][vc_column width="1/2"][pav_heading css_animation="fadeIn" text="New Women Underwear" tag="h2" text_transform="uppercase" font_size="14px" letter_spacing="0.8px" color="#ffffff" font_family="Montserrat"][pav_divider css_animation="fadeIn" align="left" color="#e2e2e2" width="150px" height="3px" d_margin_top="20px" d_margin_bottom="10px" delay_animation="300"][pav_heading css_animation="fadeIn" text="Summer Collection" tag="h2" text_transform="uppercase" font_size="46px" letter_spacing="0.8px" color="#ff699c" font_family="Montserrat" delay_animation="600" el_class="big-title"][pav_heading css_animation="fadeIn" text="#E-8_JTNDcCUyMHN0eWxlJTNEJTIybWFyZ2luJTNBJTIwMCUyMDAlMjAxMHB4JTNCJTIyJTNFTnVsbGElMjBxdWlzJTIwc2VtJTIwYXQlMjBuaWJoJTIwZWxlbWVudHVtJTIwaW1wZXJkaWV0LiUyMER1aXMlMjBzYWdpdHRpcyUyMGlwc3VtJTIwcHJhZXNlbnQlM0NiciUzRSUwQW1hdXJpcyUyMGZ1c2NlJTIwbmVjJTIwdGVsbHVzJTIwc2VkJTIwYXVndWUlMjBzZW1wZXIlMjBwb3J0YSUyMGFudGUlMjBkYXBpYnVzLiUzQyUyRnAlM0U=" delay_animation="900" font_size="15px" color="#ffffff"][pav_button css_animation="fadeIn" url="#" style="outline" size="small" custom_hover_background="#ff699c" custom_color="#ffffff" custom_border_color="#ff699c" border_radius="30px" font_family="Montserrat" font_padding="11px 36px" margin="10px 0 0" delay_animation="1200"]See it now[/pav_button][/vc_column][vc_column width="1/2"][/vc_column][/vc_row][vc_row center_row="yes" css=".vc_custom_1463668628144{padding-top: 80px !important;padding-bottom: 80px !important;}" el_class="blog-row"][vc_column][pav_heading text="Latest From Blog" tag="h1" font_weight="400" text_transform="uppercase" text_align="center" font_size="30px;" letter_spacing="1px" color="#212121" line_height="36px" font_family="Montserrat"][pav_divider color="#bbbbbb" icon_type="lineicons" icon_lineicons="line-icon-chat" width="180px" height="1px" d_margin_bottom="30px" icon_color="#212121" icon_size="18px"][pav_blog_carousel css_animation="fadeInUp" count="6" content_heading_weight="600" content_heading_transform="uppercase" author="false" categories="false" excerpt_length="11" readmore="false" img_width="360px" img_height="187px" content_heading_size="15px" content_background="#f6f6f6" content_padding="28px 15px" meta_icons_color="#ff4a96"][/vc_column][/vc_row]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>170</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-27 20:42:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-27 20:42:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[.vc_custom_1463668538168{padding-top: 80px !important;padding-bottom: 50px !important;}.vc_custom_1463668552753{padding-bottom: 50px !important;}.vc_custom_1463668567789{padding-bottom: 50px !important;}.vc_custom_1463667982841{padding-top: 135px !important;padding-bottom: 135px !important;background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_207455965.png?id=211) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463668628144{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1461872312039{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_153525680.jpg?id=200) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1461872519060{background-image: url(https://plutonwp.com/underwear/wp-content/uploads/sites/6/2016/04/img_223364521.jpg?id=201) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1461851309386{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1461851365288{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}.vc_custom_1461851337711{border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 35px !important;padding-right: 10px !important;padding-bottom: 35px !important;padding-left: 10px !important;border-left-color: #dddddd !important;border-left-style: solid !important;border-right-color: #dddddd !important;border-right-style: solid !important;border-top-color: #dddddd !important;border-top-style: solid !important;border-bottom-color: #dddddd !important;border-bottom-style: solid !important;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_post_layout]]></wp:meta_key>
+			<wp:meta_value><![CDATA[full-screen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_transparent_header_color]]></wp:meta_key>
+			<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_disable_margins]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[pluton_disable_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[on]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wpb_post_custom_css]]></wp:meta_key>
+			<wp:meta_value><![CDATA[/* Box banner wrap */
+.box-banner-wrap {min-height: 555px; position: relative;}
+
+/* Box banner */
+.box-banner {position: absolute; bottom: 0; left: 0; width: 100%;}
+.box-banner.first {padding: 0 50px 60px 0; text-align: right;}
+.box-banner.last {top: 0; bottom: auto; padding: 40px 0 0 50px;}
+
+/* Box banner top text/title */
+.box-banner .top-text, .box-banner .title {font-family: 'montserrat'; color: #444; font-weight: bold; line-height: 1; margin: 0 0 6px; letter-spacing: 1px; text-transform: uppercase;}
+
+/* Box banner title */
+.box-banner .title {color: #ff699c; margin: 0 0 10px; font-size: 44px;}
+
+/* Second box banner top text/title */
+.box-banner.last .top-text {color: #fff;}
+.box-banner.last .title {color: #f787af;}
+
+/* Box banner buttons */
+.box-banner .pav-button.pav-btn {font-family: 'montserrat'; background-color: #fff; color: #ff4a96; border: 1px solid #ff4a96; border-radius: 30px; padding: 8px 20px;}
+.box-banner .pav-button.pav-btn:hover, .box-banner.last .pav-button.pav-btn:hover {background-color: #ff4a96; color: #fff;}
+
+/* Second box banner button */
+.box-banner.last .pav-button.pav-btn {background-color: transparent; color: #fff; border-color: #ff4a96;}
+
+/* Responsive */
+@media screen and (max-width: 1080px) {
+    body .summer-row {padding-top: 65px!important; padding-bottom: 65px!important;}
+}
+@media screen and (max-width: 767px) {
+    body .banner-row {padding-top: 50px!important; padding-bottom: 20px!important;}
+    body .info-row {padding-bottom: 20px!important;}
+    body .arrival-row {padding-bottom: 20px!important;}
+    body .blog-row {padding-top: 50px!important; padding-bottom: 50px!important;}
+    #footer-widgets .vc_row {margin-left: 0; margin-right: 0;}
+}
+@media screen and (max-width: 320px) {
+    body .big-title {font-size: 36px !important;}
+}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact form 1</title>
+		<link>https://plutonwp.com/underwear/?post_type=wpcf7_contact_form&#038;p=4</link>
+		<pubDate>Sat, 23 Apr 2016 17:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<guid isPermaLink="false">https://plutonwp.com/underwear/?post_type=wpcf7_contact_form&#038;p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="left_float">
+<p>[text* your-name placeholder "Your Name"]</p>
+
+<p>[url url-906 placeholder "Your Website"]</p>
+</div>
+
+<div class="right_float">
+<p>[email* your-email placeholder "Email Address"]</p>
+
+<p>[text your-subject placeholder "Subject"]</p>
+</div>
+
+<div class="no_float">
+<p>[textarea your-message placeholder "Your Message"]</p>
+
+<p style="margin: 0;">[submit "Send Message"]</p>
+</div>
+Underwear "[your-subject]"
+[your-name] <wordpress@plutonwp.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)
+support@contact.com
+Reply-To: [your-email]
+
+
+
+
+Underwear "[your-subject]"
+Underwear <wordpress@plutonwp.com>
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)
+[your-email]
+Reply-To: plutontheme@gmail.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+Your entered code is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-23 17:07:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-23 17:07:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<div class="left_float">
+<p>[text* your-name placeholder "Your Name"]</p>
+
+<p>[url url-906 placeholder "Your Website"]</p>
+</div>
+
+<div class="right_float">
+<p>[email* your-email placeholder "Email Address"]</p>
+
+<p>[text your-subject placeholder "Subject"]</p>
+</div>
+
+<div class="no_float">
+<p>[textarea your-message placeholder "Your Message"]</p>
+
+<p style="margin: 0;">[submit "Send Message"]</p>
+</div>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:26:"Underwear "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@plutonwp.com>";s:4:"body";s:177:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)";s:9:"recipient";s:19:"support@contact.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:26:"Underwear "[your-subject]"";s:6:"sender";s:34:"Underwear <wordpress@plutonwp.com>";s:4:"body";s:119:"Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on Underwear (https://plutonwp.com/underwear)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:31:"Reply-To: plutontheme@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
